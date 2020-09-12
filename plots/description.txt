@@ -1,0 +1,1 @@
+This folder contains the plots generated in the process of performing analysis on the dataset of seismic data.
